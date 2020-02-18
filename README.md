@@ -1,4 +1,4 @@
-Transformer OCR: The best Arbitrary shape Text recognition model
+Transformer OCR: The best arbitrary shape text recognition model
 
 
 model architecture:
