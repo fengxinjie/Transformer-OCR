@@ -12,3 +12,4 @@ Heat map of the source attention (encoder memory) score of the first layer of de
 
 <img src="heatmap.png" width = 100%  div align=center />
 
+The transformer source code from:http://nlp.seas.harvard.edu/2018/04/03/attention.html
