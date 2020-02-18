@@ -2,8 +2,9 @@ Transformer OCR: Spatial Attention is all your need for Text recognition with Ar
 
 
 model architecture:
-<img src="art.png" width = "100" height = "100" div align=center />
-![avatar](art.png)
+
+<img src="art.png" width = "1000" height = "1000" div align=center />
+
 Results across a number of methods and datasets:
 ![avatar](result.png)
 Heat map of the source attention (encoder memory) score of the first layer of decoder:
