@@ -1,4 +1,4 @@
-Transformer OCR: Spatial Attention is all your need for Text recognition with Arbitrary shapes
+Transformer OCR: The best Arbitrary shape Text recognition model
 
 
 model architecture:
