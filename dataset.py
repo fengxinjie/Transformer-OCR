@@ -9,7 +9,7 @@ from torchvision import datasets, models, transforms
 
 
 label_len = 36
-vocab = " <,./:-'$&0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ>"
+vocab = " <,./:-'$ 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ>"
 # start symbol <
 # end symbol >
 char2token = {"PAD":0}
