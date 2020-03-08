@@ -1,9 +1,9 @@
-Transformer OCR: Spatial Attention is all your need for Text recognition with Arbitrary shapes
+Spatial Attention Is All You Need for Scene Text Recognition with Arbitrary Shapes
 
 
 model architecture:
 
-<img src="art.png" width = 80%  div align=center />
+<img src="architecture.pdf" width = 80%  div align=center />
 
 Results across a number of methods and datasets:
 
