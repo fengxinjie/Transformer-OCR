@@ -1,4 +1,4 @@
-Spatial Attention Is All You Need for Scene Text Recognition with Arbitrary Shapes
+Scene Text Recognition via Transformer
 
 
 model architecture:
