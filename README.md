@@ -1,4 +1,4 @@
-#Scene Text Recognition via Transformer
+Scene Text Recognition via Transformer
 
 
 model architecture:
