@@ -1,6 +1,3 @@
-# Scene Text Recognition via Transformer
-Implementation of Transformer OCR  as described at [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077).
-
 ## model architecture:
 
 <img src="art.png" width = 60%  div align=center />
