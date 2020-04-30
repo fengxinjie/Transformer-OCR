@@ -1,4 +1,4 @@
-Due to my negligence, I did not carefully check the Harvard source code before, and I was not aware of the gradient leakage problem in the training process. Therefore, the test accuracy in my arXiv paper is not reliable. I have withdrawn the paper and will modify the code for retraining later. The bug has been fixed and uploaded.
+We realized that the code of computing loss is problemtic, which is directly borrowed from http://nlp.seas.harvard.edu/2018/04/03/attention.html#loss-computation. We are revising the code and conducting new experiments. To aovid misleading others, we have withdrawed the arXiv paper.  We will decide whether submit a new paper to arXiv according to the new experments.
 ## model architecture:
 
 <img src="art.png" width = 60%  div align=center />
